@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require_relative 'lib/sim'
+require_relative 'lib/chapters/all'
+
+intro
+
+# vi: set ft=ruby :
